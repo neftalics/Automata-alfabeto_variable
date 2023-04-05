@@ -1,0 +1,14 @@
+estado inicial
+S1
+
+alfabeto
+0,1
+
+matriz
+S1,S2,S1
+S2,S2,S3
+S3,S2,S4
+S4,S4,S4
+
+estados finales
+S4

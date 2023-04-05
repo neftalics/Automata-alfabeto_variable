@@ -1,0 +1,15 @@
+estado inicial
+0
+
+alfabeto
+a,b,c
+
+matriz
+0,1,4,3
+1,2,3,1
+2,2,4,0
+3,4,3,1
+4,4,4,4
+
+estados finales
+1,2,3
